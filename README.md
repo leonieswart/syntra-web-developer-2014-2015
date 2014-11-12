@@ -16,6 +16,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- GitHub: https://github.com/jonasiliaens
 
 - Leonie Swart
-- 	leonie-swart@hotmail.com
-- 	https://github.com/leonieswart
+	- leonie-swart@hotmail.com
+	- https://github.com/leonieswart
 
